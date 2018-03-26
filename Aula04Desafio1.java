@@ -5,7 +5,7 @@ public class Aula04Desafio1{
 		int[] vetor = {34,3,4,7,21,9,0,12,17,33};
 		
 		int[] vetorpares = devolvePares(vetor);
-		//chamando a função de devolve os números pares do vetor.
+		//chamando a função que devolve os números pares do vetor.
 		
 		for(int numeroPar : vetorpares){
 		//laço for each para percorrer o vetorpares e exibir cada elemento.
